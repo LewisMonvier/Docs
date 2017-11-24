@@ -1,0 +1,46 @@
+
+
+
+
+div#page {
+	text-align:center;
+	}
+
+
+	div#header {
+		float:top;
+	width:1663px;
+	height:180px;
+	background-color:#42073A;
+opacity:0.80;
+
+margin:0px;
+padding-top:20px;
+	}
+
+	div#objectif{ 
+		float:
+		width:1663px;
+		height:200px;
+		background-color:#52073A;
+		opacity:0.80;
+		border-radius: 0px 0px 200px 200px;
+	margin:0px;
+padding:20px;
+	}
+
+div#content {
+	width:1700px;
+	height:200px;
+	background-color:#003745;
+	}
+div#footer {
+	width:1663px;
+	height:80px;
+	background-color:#52073A;
+	opacity:0.80;
+	border-radius: 20px 20px 2px 2px;
+	}
+
+
+	
